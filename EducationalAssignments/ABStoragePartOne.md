@@ -289,7 +289,7 @@ done with the following command at the terminal:
 
 **Your security layer must produce no output!! **
 
- * In repy log replaces print from python.  This may be helpful when
+ * In repy `log` replaces `print` from python.  This may be helpful when
 testing if Repy installed correctly.
 
 
